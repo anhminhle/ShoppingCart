@@ -39,6 +39,7 @@
 		<Unit filename="include/ShoppingCart.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/ItemToPurchase.cpp" />
+		<Unit filename="src/ListInterface.cpp" />
 		<Unit filename="src/ShoppingCart.cpp" />
 		<Extensions>
 			<code_completion />
