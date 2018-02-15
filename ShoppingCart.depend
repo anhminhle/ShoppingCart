@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1518677937 source:d:\codeblocks\projects\shoppingcart\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+	"ShoppingCart.h"
+
+1518678976 d:\codeblocks\projects\shoppingcart\include\shoppingcart.h
+	<iostream>
+	"ListInterface.h"
+
+1518677787 source:d:\codeblocks\projects\shoppingcart\src\shoppingcart.cpp
+	"ShoppingCart.h"
+
+1518674588 d:\codeblocks\projects\shoppingcart\include\itemtopurchase.h
+	<string>
+	<iostream>
+
+1518678953 d:\codeblocks\projects\shoppingcart\include\listinterface.h
+	"ItemToPurchase.h"
+
+1518670585 source:d:\codeblocks\projects\shoppingcart\src\itemtopurchase.cpp
+	"ItemToPurchase.h"
+
